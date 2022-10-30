@@ -1,0 +1,966 @@
+﻿||Sütunlar|
+Satırlar||Belediye, Köy Ve Mahalle Nüfusları|
+||Ölçüm bazında|
+|||
+|||
+2016|İstanbul(Adalar/Adalar Bel./Burgazada Mah.)-40139|1422.0|
+|İstanbul(Adalar/Adalar Bel./Heybeliada Mah.)-40142|3757.0|
+|İstanbul(Adalar/Adalar Bel./Kınalıada Mah.)-40143|1905.0|
+|İstanbul(Adalar/Adalar Bel./Maden Mah.)-40140|4335.0|
+|İstanbul(Adalar/Adalar Bel./Nizam Mah.)-40141|3059.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Adnan Menderes Mah.)-40490|3845.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Anadolu Mah.)-99359|29862.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Arnavutköy Merkez Mah.)-40478|17563.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Atatürk Mah.)-40482|7380.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Baklalı Mah.)-191981|815.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Balaban Mah.)-191983|413.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Boğazköy İstiklal Mah.)-40483|9475.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Bolluca Mah.)-40487|6827.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Boyalık Mah.)-191985|707.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Çilingir Mah.)-40494|1058.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Deliklikaya Mah.)-40910|3962.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Dursunköy Mah.)-40911|456.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Durusu Mah.)-40915|775.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Fatih Mah.)-40495|2407.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Hacımaşlı Mah.)-191975|554.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Hadımköy Mah.)-40913|20562.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Haraççı Mah.)-40489|8080.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Hastane Mah.)-40912|7663.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Hicret Mah.)-40486|2996.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./İmrahor Mah.)-40481|9678.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./İslambey Mah.)-40479|17504.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Karaburun Mah.)-191987|1519.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Karlıbayır Mah.)-40488|8090.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Mareşal Fevzi Çakmak Mah.)-40493|4415.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Mavigöl Mah.)-40485|6721.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Mehmet Akif Ersoy Mah.)-40491|6242.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Mustafa Kemal Paşa Mah.)-99358|12056.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Nenehatun Mah.)-99357|8290.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Ömerli Mah.)-40906|6671.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Sazlıbosna Mah.)-40907|1176.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Taşoluk Mah.)-40492|5561.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Tayakadın Mah.)-191977|3402.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Terkos Mah.)-40914|959.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Yassıören Mah.)-191989|542.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Yavuz Selim Mah.)-40480|11427.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Yeniköy Mah.)-191979|1415.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Yeşilbayır Mah.)-40908|586.0|
+|İstanbul(Arnavutköy/Arnavutköy Bel./Yunus Emre Mah.)-40484|15853.0|
+|İstanbul(Ataşehir/Ataşehir Bel./Aşıkveysel Mah.)-98687|13274.0|
+|İstanbul(Ataşehir/Ataşehir Bel./Atatürk Mah.)-99749|29241.0|
+|İstanbul(Ataşehir/Ataşehir Bel./Barbaros Mah.)-40527|32240.0|
+|İstanbul(Ataşehir/Ataşehir Bel./Esatpaşa Mah.)-40793|26539.0|
+|İstanbul(Ataşehir/Ataşehir Bel./Ferhatpaşa Mah.)-40577|22361.0|
+|İstanbul(Ataşehir/Ataşehir Bel./Fetıh Mah.)-40795|12224.0|
+|İstanbul(Ataşehir/Ataşehir Bel./İçerenköy Mah.)-40530|76662.0|
+|İstanbul(Ataşehir/Ataşehir Bel./İnönü Mah.)-40534|28455.0|
+|İstanbul(Ataşehir/Ataşehir Bel./Kayışdağı Mah.)-40533|42135.0|
+|İstanbul(Ataşehir/Ataşehir Bel./Küçükbakkalköy Mah.)-40531|28788.0|
+|İstanbul(Ataşehir/Ataşehir Bel./Mevlana Mah.)-99516|19084.0|
+|İstanbul(Ataşehir/Ataşehir Bel./Mimar Sinan Mah.)-99519|10686.0|
+|İstanbul(Ataşehir/Ataşehir Bel./Mustafa Kemal Mah.)-40740|15014.0|
+|İstanbul(Ataşehir/Ataşehir Bel./Örnek Mah.)-40816|27018.0|
+|İstanbul(Ataşehir/Ataşehir Bel./Yeni Çamlıca Mah.)-40746|14356.0|
+|İstanbul(Ataşehir/Ataşehir Bel./Yenisahra Mah.)-40526|11547.0|
+|İstanbul(Ataşehir/Ataşehir Bel./Yenişehir Mah.)-99517|12889.0|
+|İstanbul(Avcılar/Avcılar Bel./Ambarlı Mah.)-40146|38642.0|
+|İstanbul(Avcılar/Avcılar Bel./Cihangir Mah.)-40148|61320.0|
+|İstanbul(Avcılar/Avcılar Bel./Denizköşkler Mah.)-40147|45601.0|
+|İstanbul(Avcılar/Avcılar Bel./Firuzköy Mah.)-40152|22102.0|
+|İstanbul(Avcılar/Avcılar Bel./Gümüşpala Mah.)-40151|41279.0|
+|İstanbul(Avcılar/Avcılar Bel./Merkez Mah.)-40145|31515.0|
+|İstanbul(Avcılar/Avcılar Bel./Mustafa Kemalpaşa Mah.)-40150|46681.0|
+|İstanbul(Avcılar/Avcılar Bel./Tahtakale Mah.)-40154|50695.0|
+|İstanbul(Avcılar/Avcılar Bel./Üniversite Mah.)-40149|21135.0|
+|İstanbul(Avcılar/Avcılar Bel./Yeşilkent Mah.)-40153|71800.0|
+|İstanbul(Bağcılar/Bağcılar Bel./100. Yıl Mah.)-40176|49848.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Bağlar Mah.)-40155|15241.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Barbaros Mah.)-40157|21995.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Çınar Mah.)-40163|36783.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Demirkapı Mah.)-40171|55978.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Evren Mah.)-40169|51288.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Fatih Mah.)-40172|45976.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Fevzi Çakmak Mah.)-40173|36001.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Göztepe Mah.)-40175|36300.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Güneşli Mah.)-40168|46053.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Hürriyet Mah.)-40156|25017.0|
+|İstanbul(Bağcılar/Bağcılar Bel./İnönü Mah.)-40159|24755.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Kazım Karabekir Mah.)-40158|28662.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Kemalpaşa Mah.)-40174|34773.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Kirazlı Mah.)-40166|43541.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Mahmutbey Mah.)-40170|24411.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Merkez Mah.)-40162|26225.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Sancaktepe Mah.)-40164|19742.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Yavuz Selim Mah.)-40165|29202.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Yenigün Mah.)-40161|23448.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Yenimahalle Mah.)-40167|35620.0|
+|İstanbul(Bağcılar/Bağcılar Bel./Yıldıztepe Mah.)-40160|40651.0|
+|İstanbul(Bahçelievler/Bahçelievler Bel./Bahçelievler Mah.)-40177|62718.0|
+|İstanbul(Bahçelievler/Bahçelievler Bel./Çobançeşme Mah.)-40184|33378.0|
+|İstanbul(Bahçelievler/Bahçelievler Bel./Cumhuriyet Mah.)-40181|41893.0|
+|İstanbul(Bahçelievler/Bahçelievler Bel./Fevzi Çakmak Mah.)-40185|26434.0|
+|İstanbul(Bahçelievler/Bahçelievler Bel./Hürriyet Mah.)-40187|46755.0|
+|İstanbul(Bahçelievler/Bahçelievler Bel./Kocasinan Merkez Mah.)-40182|72199.0|
+|İstanbul(Bahçelievler/Bahçelievler Bel./Şirinevler Mah.)-40178|56884.0|
+|İstanbul(Bahçelievler/Bahçelievler Bel./Siyavuşpaşa Mah.)-40179|66117.0|
+|İstanbul(Bahçelievler/Bahçelievler Bel./Soğanlı Mah.)-40180|71585.0|
+|İstanbul(Bahçelievler/Bahçelievler Bel./Yenibosna Merkez Mah.)-40183|34522.0|
+|İstanbul(Bahçelievler/Bahçelievler Bel./Zafer Mah.)-40186|85612.0|
+|İstanbul(Bakırköy/Bakırköy Bel./Ataköy 1. Kısım Mah.)-40202|1677.0|
+|İstanbul(Bakırköy/Bakırköy Bel./Ataköy 2-5-6. Kısım Mah.)-40194|13528.0|
+|İstanbul(Bakırköy/Bakırköy Bel./Ataköy 3-4-11. Kısım Mah.)-40201|8237.0|
+|İstanbul(Bakırköy/Bakırköy Bel./Ataköy 7-8-9-10. Kısım Mah.)-40196|23889.0|
+|İstanbul(Bakırköy/Bakırköy Bel./Basınköy Mah.)-40200|6113.0|
+|İstanbul(Bakırköy/Bakırköy Bel./Cevizlik Mah.)-40192|5300.0|
+|İstanbul(Bakırköy/Bakırköy Bel./Kartaltepe Mah.)-40197|38375.0|
+|İstanbul(Bakırköy/Bakırköy Bel./Osmaniye Mah.)-40188|24233.0|
+|İstanbul(Bakırköy/Bakırköy Bel./Sakızağacı Mah.)-40191|8166.0|
+|İstanbul(Bakırköy/Bakırköy Bel./Şenlikköy Mah.)-40199|28292.0|
+|İstanbul(Bakırköy/Bakırköy Bel./Yenimahalle Mah.)-40190|6982.0|
+|İstanbul(Bakırköy/Bakırköy Bel./Yeşilköy Mah.)-40189|24134.0|
+|İstanbul(Bakırköy/Bakırköy Bel./Yeşilyurt Mah.)-40195|6923.0|
+|İstanbul(Bakırköy/Bakırköy Bel./Zeytinlik Mah.)-40193|5520.0|
+|İstanbul(Bakırköy/Bakırköy Bel./Zuhuratbaba Mah.)-40198|21068.0|
+|İstanbul(Başakşehir/Başakşehir Bel./Altınşehir Mah.)-40598|14295.0|
+|İstanbul(Başakşehir/Başakşehir Bel./Bahçeşehir 1. Kısım Mah.)-40871|19739.0|
+|İstanbul(Başakşehir/Başakşehir Bel./Bahçeşehir 2. Kısım Mah.)-40872|38715.0|
+|İstanbul(Başakşehir/Başakşehir Bel./Başak Mah.)-40357|69154.0|
+|İstanbul(Başakşehir/Başakşehir Bel./Başakşehir Mah.)-40581|53587.0|
+|İstanbul(Başakşehir/Başakşehir Bel./Güvercintepe Mah.)-40597|52164.0|
+|İstanbul(Başakşehir/Başakşehir Bel./İkitelli Osb Mah.)-139666|58.0|
+|İstanbul(Başakşehir/Başakşehir Bel./Kayabaşı Mah.)-40583|65444.0|
+|İstanbul(Başakşehir/Başakşehir Bel./Şahintepe Mah.)-40584|35347.0|
+|İstanbul(Başakşehir/Başakşehir Bel./Şamlar Mah.)-191991|1360.0|
+|İstanbul(Başakşehir/Başakşehir Bel./Ziya Gökalp Mah.)-40585|19947.0|
+|İstanbul(Bayrampaşa/Bayrampaşa Bel./Altıntepsi Mah.)-40207|27959.0|
+|İstanbul(Bayrampaşa/Bayrampaşa Bel./Cevatpaşa Mah.)-40203|19039.0|
+|İstanbul(Bayrampaşa/Bayrampaşa Bel./İsmet Paşa Mah.)-40209|14472.0|
+|İstanbul(Bayrampaşa/Bayrampaşa Bel./Kartaltepe Mah.)-40211|44363.0|
+|İstanbul(Bayrampaşa/Bayrampaşa Bel./Kocatepe Mah.)-40212|21318.0|
+|İstanbul(Bayrampaşa/Bayrampaşa Bel./Muratpaşa Mah.)-40213|34110.0|
+|İstanbul(Bayrampaşa/Bayrampaşa Bel./Ortamahalle Mah.)-40204|15050.0|
+|İstanbul(Bayrampaşa/Bayrampaşa Bel./Terazidere Mah.)-40206|15622.0|
+|İstanbul(Bayrampaşa/Bayrampaşa Bel./Vatan Mah.)-40205|10320.0|
+|İstanbul(Bayrampaşa/Bayrampaşa Bel./Yenidoğan Mah.)-40208|18665.0|
+|İstanbul(Bayrampaşa/Bayrampaşa Bel./Yıldırım Mah.)-40210|52230.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Abbasağa Mah.)-40219|5360.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Akat Mah.)-40234|15794.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Arnavutköy Mah.)-40231|4082.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Balmumcu Mah.)-40223|4129.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Bebek Mah.)-40232|5932.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Cihannüma Mah.)-40217|3946.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Dikilitaş Mah.)-40221|17237.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Etiler Mah.)-40233|12403.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Gayrettepe Mah.)-40222|14357.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Konaklar Mah.)-40236|15776.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Kültür Mah.)-40229|4892.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Kuruçeşme Mah.)-40228|3166.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Levazım Mah.)-40226|6168.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Levent Mah.)-40235|3225.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Mecidiye Mah.)-40224|10818.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Muradiye Mah.)-40216|5059.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Nisbetiye Mah.)-40230|12551.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Ortaköy Mah.)-40225|9571.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Sinanpaşa Mah.)-40215|2567.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Türkali Mah.)-40218|10541.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Ulus Mah.)-40227|7256.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Vişnezade Mah.)-40214|8304.0|
+|İstanbul(Beşiktaş/Beşiktaş Bel./Yıldız Mah.)-40220|6222.0|
+|İstanbul(Beykoz/Beykoz Bel./Acarlar Mah.)-40250|7349.0|
+|İstanbul(Beykoz/Beykoz Bel./Akbaba Mah.)-191701|2727.0|
+|İstanbul(Beykoz/Beykoz Bel./Alibahadır Mah.)-191703|751.0|
+|İstanbul(Beykoz/Beykoz Bel./Anadolufeneri Mah.)-191705|710.0|
+|İstanbul(Beykoz/Beykoz Bel./Anadolu Hisarı Mah.)-40243|2643.0|
+|İstanbul(Beykoz/Beykoz Bel./Anadolu Kavağı Mah.)-40256|1874.0|
+|İstanbul(Beykoz/Beykoz Bel./Baklacı Mah.)-40257|3022.0|
+|İstanbul(Beykoz/Beykoz Bel./Bozhane Mah.)-191725|472.0|
+|İstanbul(Beykoz/Beykoz Bel./Çamlıbahçe Mah.)-40253|6427.0|
+|İstanbul(Beykoz/Beykoz Bel./Çengeldere Mah.)-40258|5001.0|
+|İstanbul(Beykoz/Beykoz Bel./Çiftlik Mah.)-40259|5294.0|
+|İstanbul(Beykoz/Beykoz Bel./Çiğdem Mah.)-40240|11648.0|
+|İstanbul(Beykoz/Beykoz Bel./Çubuklu Mah.)-40241|21266.0|
+|İstanbul(Beykoz/Beykoz Bel./Cumhuriyet Mah.)-191727|1949.0|
+|İstanbul(Beykoz/Beykoz Bel./Dereseki Mah.)-191709|1500.0|
+|İstanbul(Beykoz/Beykoz Bel./Elmalı Mah.)-191711|2890.0|
+|İstanbul(Beykoz/Beykoz Bel./Fatih Mah.)-40260|4370.0|
+|İstanbul(Beykoz/Beykoz Bel./Göksu Mah.)-40244|2817.0|
+|İstanbul(Beykoz/Beykoz Bel./Göllü Mah.)-191729|265.0|
+|İstanbul(Beykoz/Beykoz Bel./Görele Mah.)-191713|1998.0|
+|İstanbul(Beykoz/Beykoz Bel./Göztepe Mah.)-40246|8347.0|
+|İstanbul(Beykoz/Beykoz Bel./Gümüşsuyu Mah.)-40237|14306.0|
+|İstanbul(Beykoz/Beykoz Bel./İncirköy Mah.)-40238|18235.0|
+|İstanbul(Beykoz/Beykoz Bel./İshaklı Mah.)-191731|1279.0|
+|İstanbul(Beykoz/Beykoz Bel./Kanlıca Mah.)-40242|4297.0|
+|İstanbul(Beykoz/Beykoz Bel./Kavacık Mah.)-40247|23903.0|
+|İstanbul(Beykoz/Beykoz Bel./Kaynarca Mah.)-191715|584.0|
+|İstanbul(Beykoz/Beykoz Bel./Kılıçlı Mah.)-191733|532.0|
+|İstanbul(Beykoz/Beykoz Bel./Mahmutşevketpaşa Mah.)-191723|1802.0|
+|İstanbul(Beykoz/Beykoz Bel./Merkez Mah.)-40251|6103.0|
+|İstanbul(Beykoz/Beykoz Bel./Öğümce Mah.)-191735|479.0|
+|İstanbul(Beykoz/Beykoz Bel./Örnekköy Mah.)-191721|3992.0|
+|İstanbul(Beykoz/Beykoz Bel./Ortaçeşme Mah.)-40254|8082.0|
+|İstanbul(Beykoz/Beykoz Bel./Paşabahçe Mah.)-40239|3871.0|
+|İstanbul(Beykoz/Beykoz Bel./Paşamandıra Mah.)-191737|1032.0|
+|İstanbul(Beykoz/Beykoz Bel./Polonezköy Mah.)-191717|370.0|
+|İstanbul(Beykoz/Beykoz Bel./Poyrazköy Mah.)-191719|909.0|
+|İstanbul(Beykoz/Beykoz Bel./Riva Mah.)-191707|2178.0|
+|İstanbul(Beykoz/Beykoz Bel./Rüzgarlıbahçe Mah.)-40248|7904.0|
+|İstanbul(Beykoz/Beykoz Bel./Soğuksu Mah.)-40249|11071.0|
+|İstanbul(Beykoz/Beykoz Bel./Tokatköy Mah.)-40255|15277.0|
+|İstanbul(Beykoz/Beykoz Bel./Yalıköy Mah.)-40252|5430.0|
+|İstanbul(Beykoz/Beykoz Bel./Yavuz Selim Mah.)-40261|5117.0|
+|İstanbul(Beykoz/Beykoz Bel./Yeni Mahalle Mah.)-40245|19393.0|
+|İstanbul(Beykoz/Beykoz Bel./Zerzavatçı Mah.)-191739|944.0|
+|İstanbul(Beylikdüzü/Beylikdüzü Bel./Adnan Kahveci Mah.)-40869|80681.0|
+|İstanbul(Beylikdüzü/Beylikdüzü Bel./Barış Mah.)-40875|51476.0|
+|İstanbul(Beylikdüzü/Beylikdüzü Bel./Büyükşehir Mah.)-40877|20851.0|
+|İstanbul(Beylikdüzü/Beylikdüzü Bel./Cumhuriyet Mah.)-40874|20837.0|
+|İstanbul(Beylikdüzü/Beylikdüzü Bel./Dereağzı Mah.)-40870|10401.0|
+|İstanbul(Beylikdüzü/Beylikdüzü Bel./Gürpınar Mah.)-40867|18936.0|
+|İstanbul(Beylikdüzü/Beylikdüzü Bel./Kavaklı Mah.)-40873|23596.0|
+|İstanbul(Beylikdüzü/Beylikdüzü Bel./Marmara Mah.)-40893|25609.0|
+|İstanbul(Beylikdüzü/Beylikdüzü Bel./Sahil Mah.)-40876|4234.0|
+|İstanbul(Beylikdüzü/Beylikdüzü Bel./Yakuplu Mah.)-40894|40792.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Arap Cami Mah.)-40299|105.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Asmalı Mescit Mah.)-40281|466.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Bedrettin Mah.)-40300|782.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Bereketzade Mah.)-40298|392.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Bostan Mah.)-40291|2495.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Bülbül Mah.)-40292|4023.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Camiikebir Mah.)-40301|2754.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Çatma Mescit Mah.)-40283|2484.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Cihangir Mah.)-40275|3549.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Çukur Mah.)-40293|2782.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Emekyemez Mah.)-40269|143.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Evliya Çelebi Mah.)-40282|270.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Fetihtepe Mah.)-40262|15937.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Firuzağa Mah.)-40276|4140.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Gümüşsuyu Mah.)-40278|2161.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Hacıahmet Mah.)-40280|15386.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Hacımimi Mah.)-40285|1382.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Halıcıoğlu Mah.)-40304|13413.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Hüseyinağa Mah.)-40272|333.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./İstiklal Mah.)-40279|4843.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Kadımehmet Efendi Mah.)-40267|10245.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Kalyoncu Kulluğu Mah.)-40270|3148.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Kamer Hatun Mah.)-40271|838.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Kaptanpaşa Mah.)-40264|19920.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Katipmustafa Çelebi Mah.)-40274|841.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Keçeci Piri Mah.)-40302|14351.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Kemankeş Karamustafapaşa Mah.)-40297|129.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Kılıçali Paşa Mah.)-40296|2510.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Kocatepe Mah.)-40277|1950.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Küçük Piyale Mah.)-40268|9404.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Kulaksız Mah.)-40266|9805.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Kuloğlu Mah.)-40288|1465.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Müeyyetzade Mah.)-40286|520.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Ömer Avni Mah.)-40294|2181.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Örnektepe Mah.)-40305|10773.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Piripaşa Mah.)-40303|15499.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Piyalepaşa Mah.)-40263|23795.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Pürtelaş Hasan Efendi Mah.)-40295|1932.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Şahkulu Mah.)-40284|880.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Şehit Muhtar Mah.)-40273|1502.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Sururi Mehmet Efendi Mah.)-40289|4428.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Sütlüce Mah.)-40306|12579.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Tomtom Mah.)-40287|2715.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Yahya Kahya Mah.)-40290|3774.0|
+|İstanbul(Beyoğlu/Beyoğlu Bel./Yenişehir Mah.)-40265|5738.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./19 Mayıs Mah.)-40850|8377.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Ahmediye Mah.)-40891|1244.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Alkent 2000 Mah.)-40844|4318.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Atatürk Mah.)-40845|18691.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Bahçelievler Mah.)-40882|3247.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Çakmaklı Mah.)-99334|5065.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Celaliye Mah.)-40928|5348.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Cumhuriyet Mah.)-40846|7324.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Dizdariye Mah.)-40847|6949.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Ekinoba Mah.)-40886|11696.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Fatih Mah.)-40848|19322.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Güzelce Mah.)-40883|6459.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Hürriyet Mah.)-40889|20019.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Kamiloba Mah.)-40929|6650.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Karaağaç Mah.)-40849|2303.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Kumburgaz Mah.)-40884|6434.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Mimaroba Mah.)-140376|18026.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Mimar Sinan Merkez Mah.)-40887|8726.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Murat Çesme Mah.)-40888|14519.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Pınartepe Mah.)-40868|17485.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Sinanoba Mah.)-140374|14459.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Türkoba Mah.)-40892|12980.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Ulus Mah.)-40890|15618.0|
+|İstanbul(Büyükçekmece/Büyükçekmece Bel./Yenimahalle Mah.)-40885|1926.0|
+|İstanbul(Çatalca/Çatalca Bel./Akalan Mah.)-191781|1099.0|
+|İstanbul(Çatalca/Çatalca Bel./Atatürk Mah.)-40903|1146.0|
+|İstanbul(Çatalca/Çatalca Bel./Aydınlar Mah.)-191783|832.0|
+|İstanbul(Çatalca/Çatalca Bel./Bahşayiş Mah.)-40902|382.0|
+|İstanbul(Çatalca/Çatalca Bel./Başak Mah.)-191821|402.0|
+|İstanbul(Çatalca/Çatalca Bel./Belgrat Mah.)-191823|363.0|
+|İstanbul(Çatalca/Çatalca Bel./Çakıl Mah.)-40899|2505.0|
+|İstanbul(Çatalca/Çatalca Bel./Çanakça Mah.)-191785|2606.0|
+|İstanbul(Çatalca/Çatalca Bel./Celepköy Mah.)-191825|244.0|
+|İstanbul(Çatalca/Çatalca Bel./Çiftlikköy Mah.)-40917|1901.0|
+|İstanbul(Çatalca/Çatalca Bel./Dağyenice Mah.)-191787|700.0|
+|İstanbul(Çatalca/Çatalca Bel./Elbasan Mah.)-191789|596.0|
+|İstanbul(Çatalca/Çatalca Bel./Fatih Mah.)-40904|1246.0|
+|İstanbul(Çatalca/Çatalca Bel./Ferhatpaşa Mah.)-40897|20796.0|
+|İstanbul(Çatalca/Çatalca Bel./Gökçeali Mah.)-191791|1825.0|
+|İstanbul(Çatalca/Çatalca Bel./Gümüşpınar Mah.)-191793|824.0|
+|İstanbul(Çatalca/Çatalca Bel./Hallaçlı Mah.)-191795|1201.0|
+|İstanbul(Çatalca/Çatalca Bel./Hisarbeyli Mah.)-191827|374.0|
+|İstanbul(Çatalca/Çatalca Bel./İhsaniye Mah.)-191797|1681.0|
+|İstanbul(Çatalca/Çatalca Bel./İnceğiz Mah.)-191799|775.0|
+|İstanbul(Çatalca/Çatalca Bel./İzzettin Mah.)-40900|1008.0|
+|İstanbul(Çatalca/Çatalca Bel./Kabakça Mah.)-191801|1644.0|
+|İstanbul(Çatalca/Çatalca Bel./Kaleiçi Mah.)-40898|7956.0|
+|İstanbul(Çatalca/Çatalca Bel./Kalfa Mah.)-191803|778.0|
+|İstanbul(Çatalca/Çatalca Bel./Karacaköy Merkez Mah.)-40916|2498.0|
+|İstanbul(Çatalca/Çatalca Bel./Karamandere Mah.)-191829|536.0|
+|İstanbul(Çatalca/Çatalca Bel./Kestanelik Mah.)-191805|2294.0|
+|İstanbul(Çatalca/Çatalca Bel./Kızılcaali Mah.)-191807|216.0|
+|İstanbul(Çatalca/Çatalca Bel./Muratbey Merkez Mah.)-40905|1394.0|
+|İstanbul(Çatalca/Çatalca Bel./Nakkaş Mah.)-40909|833.0|
+|İstanbul(Çatalca/Çatalca Bel./Oklalı Mah.)-191809|1383.0|
+|İstanbul(Çatalca/Çatalca Bel./Örcünlü Mah.)-191811|553.0|
+|İstanbul(Çatalca/Çatalca Bel./Örencik Mah.)-191813|781.0|
+|İstanbul(Çatalca/Çatalca Bel./Ormanlı Mah.)-191831|1063.0|
+|İstanbul(Çatalca/Çatalca Bel./Ovayenice Mah.)-40901|1147.0|
+|İstanbul(Çatalca/Çatalca Bel./Subaşı Mah.)-191815|1449.0|
+|İstanbul(Çatalca/Çatalca Bel./Yalıköy Mah.)-191833|1491.0|
+|İstanbul(Çatalca/Çatalca Bel./Yaylacık Mah.)-191817|60.0|
+|İstanbul(Çatalca/Çatalca Bel./Yazlık Mah.)-191819|352.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Alemdağ Mah.)-40749|5855.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Aydınlar Mah.)-40766|15676.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Çamlık Mah.)-40753|20286.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Çatalmeşe Mah.)-40750|7557.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Cumhuriyet Mah.)-40769|11995.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Ekşioğlu Mah.)-40751|7197.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Güngören Mah.)-40768|7629.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Hamidiye Mah.)-40754|28853.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Hüseyinli Mah.)-191993|788.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Kirazlıdere Mah.)-40770|8734.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Koçullu Mah.)-191995|1333.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Mehmet Akif Mah.)-40755|30399.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Merkez Mah.)-40756|23317.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Mimar Sinan Mah.)-40757|23551.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Nişantepe Mah.)-40752|9749.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Ömerli Mah.)-40758|4003.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Reşadiye Mah.)-191997|2155.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Sırapınar Mah.)-191999|856.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Soğukpınar Mah.)-40767|7863.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Sultançiftliği Mah.)-40764|14623.0|
+|İstanbul(Çekmeköy/Çekmeköy Bel./Taşdelen Mah.)-40765|7192.0|
+|İstanbul(Esenler/Esenler Bel./Birlik Mah.)-40348|28331.0|
+|İstanbul(Esenler/Esenler Bel./Çifte Havuzlar Mah.)-40340|2582.0|
+|İstanbul(Esenler/Esenler Bel./Davutpaşa Mah.)-40342|16751.0|
+|İstanbul(Esenler/Esenler Bel./Fatih Mah.)-40350|46199.0|
+|İstanbul(Esenler/Esenler Bel./Fevzi Çakmak Mah.)-40345|34166.0|
+|İstanbul(Esenler/Esenler Bel./Havaalanı Mah.)-40354|33776.0|
+|İstanbul(Esenler/Esenler Bel./Kazım Karabekir Mah.)-40346|36141.0|
+|İstanbul(Esenler/Esenler Bel./Kemer Mah.)-40352|22245.0|
+|İstanbul(Esenler/Esenler Bel./Menderes Mah.)-40347|33418.0|
+|İstanbul(Esenler/Esenler Bel./Mimar Sinan Mah.)-40341|12996.0|
+|İstanbul(Esenler/Esenler Bel./Namık Kemal Mah.)-40344|16393.0|
+|İstanbul(Esenler/Esenler Bel./Nine Hatun Mah.)-40343|43561.0|
+|İstanbul(Esenler/Esenler Bel./Oruçreis Mah.)-40355|45169.0|
+|İstanbul(Esenler/Esenler Bel./Tuna Mah.)-40351|34069.0|
+|İstanbul(Esenler/Esenler Bel./Turgut Reis Mah.)-40353|47529.0|
+|İstanbul(Esenler/Esenler Bel./Yavuz Selim Mah.)-40349|3905.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Akçaburgaz Mah.)-40880|17460.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Akevler Mah.)-181498|9148.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Akşemseddin Mah.)-181504|6170.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Ardıçlı Mah.)-40861|6740.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Aşık Veysel Mah.)-181518|15832.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Atatürk Mah.)-40881|12320.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Bağlarçeşme Mah.)-40855|27828.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Balıkyolu Mah.)-181510|25077.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Barbaros Hayrettin Paşa Mah.)-181488|19167.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Battalgazi Mah.)-181526|14768.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Çınar Mah.)-181514|26541.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Cumhuriyet Mah.)-40865|13800.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Esenkent Mah.)-40862|10202.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Fatih Mah.)-40851|24338.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Gökevler Mah.)-181490|6786.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Güzelyurt Mah.)-40895|13462.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Hürriyet Mah.)-181482|23257.0|
+|İstanbul(Esenyurt/Esenyurt Bel./İncirtepe Mah.)-40852|24817.0|
+|İstanbul(Esenyurt/Esenyurt Bel./İnönü Mah.)-40853|23188.0|
+|İstanbul(Esenyurt/Esenyurt Bel./İstiklal Mah.)-40879|17825.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Koza Mah.)-181522|4309.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Mehmet Akif Ersoy Mah.)-181494|20920.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Mehterçeşme Mah.)-40854|35052.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Mevlana Mah.)-181492|13370.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Namık Kemal Mah.)-40856|20924.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Necip Fazıl Kısakürek Mah.)-181484|16074.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Orhan Gazi Mah.)-40863|9562.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Örnek Mah.)-40857|18036.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Osmangazi Mah.)-181480|28462.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Pınar Mah.)-40864|34697.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Piri Reis Mah.)-181486|9994.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Saadetdere Mah.)-40858|21072.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Şehitler Mah.)-181524|15179.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Selahaddin Eyyubi Mah.)-181516|20238.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Süleymaniye Mah.)-181512|27215.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Sultaniye Mah.)-181508|16051.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Talatpaşa Mah.)-40859|24669.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Turgut Özal Mah.)-181502|23120.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Üçevler Mah.)-181496|23796.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Yenikent Mah.)-40860|19435.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Yeşilkent Mah.)-40866|28326.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Yunus Emre Mah.)-181506|17821.0|
+|İstanbul(Esenyurt/Esenyurt Bel./Zafer Mah.)-181500|7962.0|
+|İstanbul(Eyüp/Eyüp Bel./Ağaçlı Mah.)-191741|626.0|
+|İstanbul(Eyüp/Eyüp Bel./Akpınar Mah.)-191743|1933.0|
+|İstanbul(Eyüp/Eyüp Bel./Akşemsettin Mah.)-40358|41599.0|
+|İstanbul(Eyüp/Eyüp Bel./Alibeyköy Mah.)-40359|9302.0|
+|İstanbul(Eyüp/Eyüp Bel./Çiftalan Mah.)-191745|151.0|
+|İstanbul(Eyüp/Eyüp Bel./Çırçır Mah.)-40360|27208.0|
+|İstanbul(Eyüp/Eyüp Bel./Defterdar Mah.)-40361|4769.0|
+|İstanbul(Eyüp/Eyüp Bel./Düğmeciler Mah.)-40362|18652.0|
+|İstanbul(Eyüp/Eyüp Bel./Emniyettepe Mah.)-40363|9559.0|
+|İstanbul(Eyüp/Eyüp Bel./Esentepe Mah.)-40364|19449.0|
+|İstanbul(Eyüp/Eyüp Bel./Göktürk Merkez Mah.)-40379|36612.0|
+|İstanbul(Eyüp/Eyüp Bel./Güzeltepe Mah.)-40366|34263.0|
+|İstanbul(Eyüp/Eyüp Bel./İhsaniye Mah.)-191749|158.0|
+|İstanbul(Eyüp/Eyüp Bel./Işıklar Mah.)-191747|573.0|
+|İstanbul(Eyüp/Eyüp Bel./İslambey Mah.)-40367|15121.0|
+|İstanbul(Eyüp/Eyüp Bel./Karadolap Mah.)-40368|26210.0|
+|İstanbul(Eyüp/Eyüp Bel./Merkez Mah.)-40365|10893.0|
+|İstanbul(Eyüp/Eyüp Bel./Mimar Sinan Mah.)-40369|4610.0|
+|İstanbul(Eyüp/Eyüp Bel./Mithatpaşa Mah.)-40370|5246.0|
+|İstanbul(Eyüp/Eyüp Bel./Nişancı Mah.)-40371|16589.0|
+|İstanbul(Eyüp/Eyüp Bel./Odayeri Mah.)-191751|222.0|
+|İstanbul(Eyüp/Eyüp Bel./Pirinççi Mah.)-191753|3600.0|
+|İstanbul(Eyüp/Eyüp Bel./Rami Cuma Mah.)-40372|14680.0|
+|İstanbul(Eyüp/Eyüp Bel./Rami Yeni Mah.)-40373|13981.0|
+|İstanbul(Eyüp/Eyüp Bel./Sakarya Mah.)-40374|10016.0|
+|İstanbul(Eyüp/Eyüp Bel./Silahtarağa Mah.)-40375|9172.0|
+|İstanbul(Eyüp/Eyüp Bel./Topçular Mah.)-40376|4580.0|
+|İstanbul(Eyüp/Eyüp Bel./Yeşilpınar Mah.)-40378|37876.0|
+|İstanbul(Fatih/Fatih Bel./Aksaray Mah.)-99127|10578.0|
+|İstanbul(Fatih/Fatih Bel./Akşemsettin Mah.)-99137|21732.0|
+|İstanbul(Fatih/Fatih Bel./Alemdar Mah.)-40307|400.0|
+|İstanbul(Fatih/Fatih Bel./Ali Kuşçu Mah.)-99141|11247.0|
+|İstanbul(Fatih/Fatih Bel./Atikali Mah.)-99140|14937.0|
+|İstanbul(Fatih/Fatih Bel./Ayvansaray Mah.)-99146|18055.0|
+|İstanbul(Fatih/Fatih Bel./Balabanağa Mah.)-40308|153.0|
+|İstanbul(Fatih/Fatih Bel./Balat Mah.)-99145|14221.0|
+|İstanbul(Fatih/Fatih Bel./Beyazıt Mah.)-40309|141.0|
+|İstanbul(Fatih/Fatih Bel./Binbirdirek Mah.)-40310|1705.0|
+|İstanbul(Fatih/Fatih Bel./Cankurtaran Mah.)-40311|1285.0|
+|İstanbul(Fatih/Fatih Bel./Cerrahpaşa Mah.)-99128|9231.0|
+|İstanbul(Fatih/Fatih Bel./Cibali Mah.)-99143|8220.0|
+|İstanbul(Fatih/Fatih Bel./Demirtaş Mah.)-40312|235.0|
+|İstanbul(Fatih/Fatih Bel./Derviş Ali Mah.)-40422|18942.0|
+|İstanbul(Fatih/Fatih Bel./Emin Sinan Mah.)-40313|1154.0|
+|İstanbul(Fatih/Fatih Bel./Hacı Kadın Mah.)-40314|382.0|
+|İstanbul(Fatih/Fatih Bel./Haseki Sultan Mah.)-99129|10239.0|
+|İstanbul(Fatih/Fatih Bel./Hırka-İ Şerif Mah.)-99138|24006.0|
+|İstanbul(Fatih/Fatih Bel./Hobyar Mah.)-40315|77.0|
+|İstanbul(Fatih/Fatih Bel./Hoca Gıyasettin Mah.)-40316|763.0|
+|İstanbul(Fatih/Fatih Bel./Hocapaşa Mah.)-40317|159.0|
+|İstanbul(Fatih/Fatih Bel./İskenderpaşa Mah.)-40397|13862.0|
+|İstanbul(Fatih/Fatih Bel./Kalenderhane Mah.)-40319|1458.0|
+|İstanbul(Fatih/Fatih Bel./Karagümrük Mah.)-99139|11333.0|
+|İstanbul(Fatih/Fatih Bel./Katip Kasım Mah.)-40320|2298.0|
+|İstanbul(Fatih/Fatih Bel./Kemalpaşa Mah.)-40318|465.0|
+|İstanbul(Fatih/Fatih Bel./Koca Mustafapaşa Mah.)-40390|21544.0|
+|İstanbul(Fatih/Fatih Bel./Küçük Ayasofya Mah.)-40321|2642.0|
+|İstanbul(Fatih/Fatih Bel./Mercan Mah.)-40322|41.0|
+|İstanbul(Fatih/Fatih Bel./Mesihpaşa Mah.)-40323|160.0|
+|İstanbul(Fatih/Fatih Bel./Mevlanakapı Mah.)-99134|20251.0|
+|İstanbul(Fatih/Fatih Bel./Mimar Hayrettin Mah.)-40324|728.0|
+|İstanbul(Fatih/Fatih Bel./Mimar Kemalettin Mah.)-40325|309.0|
+|İstanbul(Fatih/Fatih Bel./Molla Fenari Mah.)-40326|97.0|
+|İstanbul(Fatih/Fatih Bel./Molla Gürani Mah.)-99136|14983.0|
+|İstanbul(Fatih/Fatih Bel./Molla Hüsrev Mah.)-40327|1601.0|
+|İstanbul(Fatih/Fatih Bel./Muhsine Hatun Mah.)-40328|2301.0|
+|İstanbul(Fatih/Fatih Bel./Nişanca Mah.)-40329|5945.0|
+|İstanbul(Fatih/Fatih Bel./Rüstempaşa Mah.)-40330|40.0|
+|İstanbul(Fatih/Fatih Bel./Saraç İshak Mah.)-40331|1245.0|
+|İstanbul(Fatih/Fatih Bel./Sarıdemir Mah.)-40332|14.0|
+|İstanbul(Fatih/Fatih Bel./Şehremini Mah.)-99133|22038.0|
+|İstanbul(Fatih/Fatih Bel./Şehsuvar Bey Mah.)-40336|2485.0|
+|İstanbul(Fatih/Fatih Bel./Seyyid Ömer Mah.)-40387|26154.0|
+|İstanbul(Fatih/Fatih Bel./Silivrikapı Mah.)-99132|16815.0|
+|İstanbul(Fatih/Fatih Bel./Süleymaniye Mah.)-40335|651.0|
+|İstanbul(Fatih/Fatih Bel./Sultan Ahmet Mah.)-40333|773.0|
+|İstanbul(Fatih/Fatih Bel./Sümbül Efendi Mah.)-99131|17220.0|
+|İstanbul(Fatih/Fatih Bel./Sururi Mah.)-40334|30.0|
+|İstanbul(Fatih/Fatih Bel./Tahtakale Mah.)-40337|24.0|
+|İstanbul(Fatih/Fatih Bel./Taya Hatun Mah.)-40338|117.0|
+|İstanbul(Fatih/Fatih Bel./Topkapı Mah.)-99135|11113.0|
+|İstanbul(Fatih/Fatih Bel./Yavuz Sinan Mah.)-40339|256.0|
+|İstanbul(Fatih/Fatih Bel./Yavuz Sultan Selim Mah.)-99144|18434.0|
+|İstanbul(Fatih/Fatih Bel./Yedikule Mah.)-99130|17267.0|
+|İstanbul(Fatih/Fatih Bel./Zeyrek Mah.)-99142|14729.0|
+|İstanbul(Gaziosmanpaşa/Gaziosmanpaşa Bel./Bağlarbaşı Mah.)-40454|29718.0|
+|İstanbul(Gaziosmanpaşa/Gaziosmanpaşa Bel./Barbaros Hayrettin Paşa Mah.)-40459|51003.0|
+|İstanbul(Gaziosmanpaşa/Gaziosmanpaşa Bel./Fevzi Çakmak Mah.)-40457|22426.0|
+|İstanbul(Gaziosmanpaşa/Gaziosmanpaşa Bel./Hürriyet Mah.)-40458|28710.0|
+|İstanbul(Gaziosmanpaşa/Gaziosmanpaşa Bel./Karadeniz Mah.)-40464|72788.0|
+|İstanbul(Gaziosmanpaşa/Gaziosmanpaşa Bel./Karayolları Mah.)-40463|41111.0|
+|İstanbul(Gaziosmanpaşa/Gaziosmanpaşa Bel./Karlıtepe Mah.)-40451|19601.0|
+|İstanbul(Gaziosmanpaşa/Gaziosmanpaşa Bel./Kazım Karabekir Mah.)-40461|47508.0|
+|İstanbul(Gaziosmanpaşa/Gaziosmanpaşa Bel./Merkez Mah.)-40455|29419.0|
+|İstanbul(Gaziosmanpaşa/Gaziosmanpaşa Bel./Mevlana Mah.)-40462|23580.0|
+|İstanbul(Gaziosmanpaşa/Gaziosmanpaşa Bel./Pazariçi Mah.)-40450|12694.0|
+|İstanbul(Gaziosmanpaşa/Gaziosmanpaşa Bel./Sarıgöl Mah.)-40453|24972.0|
+|İstanbul(Gaziosmanpaşa/Gaziosmanpaşa Bel./Şemsipaşa Mah.)-40456|24202.0|
+|İstanbul(Gaziosmanpaşa/Gaziosmanpaşa Bel./Yenidoğan Mah.)-40452|8990.0|
+|İstanbul(Gaziosmanpaşa/Gaziosmanpaşa Bel./Yeni Mahalle Mah.)-40460|37045.0|
+|İstanbul(Gaziosmanpaşa/Gaziosmanpaşa Bel./Yıldıztabya Mah.)-40449|25999.0|
+|İstanbul(Güngören/Güngören Bel./Abdurrahman Nafiz Gürman Mah.)-40504|22551.0|
+|İstanbul(Güngören/Güngören Bel./Akıncılar Mah.)-40497|21162.0|
+|İstanbul(Güngören/Güngören Bel./Gençosman Mah.)-40498|39461.0|
+|İstanbul(Güngören/Güngören Bel./Güneştepe Mah.)-40499|52429.0|
+|İstanbul(Güngören/Güngören Bel./Güven Mah.)-40500|18254.0|
+|İstanbul(Güngören/Güngören Bel./Haznedar Mah.)-40501|21458.0|
+|İstanbul(Güngören/Güngören Bel./Mareşal Çakmak Mah.)-40502|32126.0|
+|İstanbul(Güngören/Güngören Bel./Mehmet Nesih Özmen Mah.)-40506|10252.0|
+|İstanbul(Güngören/Güngören Bel./Merkez Mah.)-40496|47951.0|
+|İstanbul(Güngören/Güngören Bel./Sanayi Mah.)-40503|13599.0|
+|İstanbul(Güngören/Güngören Bel./Tozkoparan Mah.)-40505|19266.0|
+|İstanbul(Kadıköy/Kadıköy Bel./19 Mayıs Mah.)-40528|30119.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Acıbadem Mah.)-40509|30443.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Bostancı Mah.)-40523|31399.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Caddebostan Mah.)-40521|18399.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Caferağa Mah.)-40512|24424.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Dumlupınar Mah.)-40518|11328.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Eğitim Mah.)-40516|13660.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Erenköy Mah.)-40524|30824.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Fenerbahçe Mah.)-40514|17604.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Feneryolu Mah.)-40515|24798.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Fikirtepe Mah.)-40517|9705.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Göztepe Mah.)-40520|34576.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Hasanpaşa Mah.)-40510|15808.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Koşuyolu Mah.)-40508|8027.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Kozyatağı Mah.)-40529|33939.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Merdivenköy Mah.)-40519|33557.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Osmanağa Mah.)-40511|8490.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Rasimpaşa Mah.)-40507|14198.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Sahrayıcedit Mah.)-40525|30929.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Suadiye Mah.)-40522|21909.0|
+|İstanbul(Kadıköy/Kadıköy Bel./Zühtüpaşa Mah.)-40513|8166.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Çağlayan Mah.)-40535|29518.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Çeliktepe Mah.)-40536|32763.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Emniyet Evleri Mah.)-40537|8266.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Gültepe Mah.)-40538|13798.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Gürsel Mah.)-40539|29720.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Hamidiye Mah.)-40541|37689.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Harmantepe Mah.)-40540|22100.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Hürriyet Mah.)-40542|20218.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Mehmet Akif Ersoy Mah.)-40544|12711.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Merkez Mah.)-40543|29240.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Nurtepe Mah.)-40545|25320.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Ortabayır Mah.)-40546|22960.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Seyrantepe Mah.)-40548|22587.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Şirintepe Mah.)-40549|21785.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Sultan Selim Mah.)-40547|35849.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Talatpaşa Mah.)-40550|33327.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Telsizler Mah.)-40551|11793.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Yahya Kemal Mah.)-40552|17797.0|
+|İstanbul(Kağıthane/Kağıthane Bel./Yeşilce Mah.)-40553|12244.0|
+|İstanbul(Kartal/Kartal Bel./Atalar Mah.)-40554|30877.0|
+|İstanbul(Kartal/Kartal Bel./Çavuşoğlu Mah.)-40558|14198.0|
+|İstanbul(Kartal/Kartal Bel./Cevizli Mah.)-40555|27555.0|
+|İstanbul(Kartal/Kartal Bel./Cumhuriyet Mah.)-40556|21013.0|
+|İstanbul(Kartal/Kartal Bel./Esentepe Mah.)-40559|26413.0|
+|İstanbul(Kartal/Kartal Bel./Gümüşpınar Mah.)-40560|26111.0|
+|İstanbul(Kartal/Kartal Bel./Hürriyet Mah.)-40561|47621.0|
+|İstanbul(Kartal/Kartal Bel./Karlıktepe Mah.)-40562|30397.0|
+|İstanbul(Kartal/Kartal Bel./Kordonboyu Mah.)-40563|11555.0|
+|İstanbul(Kartal/Kartal Bel./Orhantepe Mah.)-40564|29814.0|
+|İstanbul(Kartal/Kartal Bel./Orta Mah.)-40565|18491.0|
+|İstanbul(Kartal/Kartal Bel./Petrol İş Mah.)-40566|28675.0|
+|İstanbul(Kartal/Kartal Bel./Soğanlık Yeni Mah.)-40567|26472.0|
+|İstanbul(Kartal/Kartal Bel./Topselvi Mah.)-40568|11922.0|
+|İstanbul(Kartal/Kartal Bel./Uğur Mumcu Mah.)-40569|41163.0|
+|İstanbul(Kartal/Kartal Bel./Yakacık Çarşı Mah.)-40557|16240.0|
+|İstanbul(Kartal/Kartal Bel./Yakacık Yeni Mah.)-40570|16117.0|
+|İstanbul(Kartal/Kartal Bel./Yalı Mah.)-40571|11305.0|
+|İstanbul(Kartal/Kartal Bel./Yukarı Mah.)-40572|8177.0|
+|İstanbul(Kartal/Kartal Bel./Yunus Mah.)-40573|15182.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Atakent Mah.)-40582|88956.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Atatürk Mah.)-40591|43086.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Beşyol Mah.)-40603|4373.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Cennet Mah.)-40607|30594.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Cumhuriyet Mah.)-40601|50689.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Fatih Mah.)-40606|10987.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Fevzi Çakmak Mah.)-40596|25274.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Gültepe Mah.)-40589|30224.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Halkalı Merkez Mah.)-40590|76786.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./İnönü Mah.)-40592|73091.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./İstasyon Mah.)-40605|37194.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Kanarya Mah.)-40604|66986.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Kartaltepe Mah.)-40588|11972.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Kemalpaşa Mah.)-40594|14685.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Mehmet Akif Mah.)-40586|54493.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Söğütlü Çeşme Mah.)-40587|33755.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Sultan Murat Mah.)-40595|13572.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Tevfikbey Mah.)-40593|36729.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Yarımburgaz Mah.)-40599|10568.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Yeni Mahalle Mah.)-40600|19267.0|
+|İstanbul(Küçükçekmece/Küçükçekmece Bel./Yeşilova Mah.)-40602|33328.0|
+|İstanbul(Maltepe/Maltepe Bel./Altayçeşme Mah.)-40612|30271.0|
+|İstanbul(Maltepe/Maltepe Bel./Altıntepe Mah.)-40613|31036.0|
+|İstanbul(Maltepe/Maltepe Bel./Aydınevler Mah.)-40617|19443.0|
+|İstanbul(Maltepe/Maltepe Bel./Bağlarbaşı Mah.)-40615|41879.0|
+|İstanbul(Maltepe/Maltepe Bel./Başıbüyük Mah.)-40625|22115.0|
+|İstanbul(Maltepe/Maltepe Bel./Büyükbakkalköy Mah.)-40624|6725.0|
+|İstanbul(Maltepe/Maltepe Bel./Cevizli Mah.)-40614|34584.0|
+|İstanbul(Maltepe/Maltepe Bel./Çınar Mah.)-40608|19841.0|
+|İstanbul(Maltepe/Maltepe Bel./Esenkent Mah.)-40620|22311.0|
+|İstanbul(Maltepe/Maltepe Bel./Feyzullah Mah.)-40610|19667.0|
+|İstanbul(Maltepe/Maltepe Bel./Fındıklı Mah.)-40619|58352.0|
+|İstanbul(Maltepe/Maltepe Bel./Girne Mah.)-40618|15677.0|
+|İstanbul(Maltepe/Maltepe Bel./Gülensu Mah.)-40622|15578.0|
+|İstanbul(Maltepe/Maltepe Bel./Gülsuyu Mah.)-40621|15443.0|
+|İstanbul(Maltepe/Maltepe Bel./İdealtepe Mah.)-40609|21157.0|
+|İstanbul(Maltepe/Maltepe Bel./Küçükyalı Merkez Mah.)-40611|25682.0|
+|İstanbul(Maltepe/Maltepe Bel./Yalı Mah.)-40616|13077.0|
+|İstanbul(Maltepe/Maltepe Bel./Zümrütevler Mah.)-40623|77313.0|
+|İstanbul(Pendik/Pendik Bel./Ahmet Yesevi Mah.)-40632|26208.0|
+|İstanbul(Pendik/Pendik Bel./Bahçelievler Mah.)-40628|12093.0|
+|İstanbul(Pendik/Pendik Bel./Ballıca Mah.)-191755|427.0|
+|İstanbul(Pendik/Pendik Bel./Batı Mah.)-40633|15882.0|
+|İstanbul(Pendik/Pendik Bel./Çamçeşme Mah.)-40649|31531.0|
+|İstanbul(Pendik/Pendik Bel./Çamlık Mah.)-40656|15034.0|
+|İstanbul(Pendik/Pendik Bel./Çınardere Mah.)-40644|18608.0|
+|İstanbul(Pendik/Pendik Bel./Doğu Mah.)-40627|16180.0|
+|İstanbul(Pendik/Pendik Bel./Dumlupınar Mah.)-40626|25754.0|
+|İstanbul(Pendik/Pendik Bel./Emirli Mah.)-191757|276.0|
+|İstanbul(Pendik/Pendik Bel./Ertuğrul Gazi Mah.)-40635|14733.0|
+|İstanbul(Pendik/Pendik Bel./Esenler Mah.)-40638|31160.0|
+|İstanbul(Pendik/Pendik Bel./Esenyalı Mah.)-40643|14128.0|
+|İstanbul(Pendik/Pendik Bel./Fatih Mah.)-40647|21382.0|
+|İstanbul(Pendik/Pendik Bel./Fevzi Çakmak Mah.)-40629|36728.0|
+|İstanbul(Pendik/Pendik Bel./Göçbeyli Mah.)-191759|1130.0|
+|İstanbul(Pendik/Pendik Bel./Güllü Bağlar Mah.)-40640|13535.0|
+|İstanbul(Pendik/Pendik Bel./Güzelyalı Mah.)-40634|33497.0|
+|İstanbul(Pendik/Pendik Bel./Harmandere Mah.)-40636|7844.0|
+|İstanbul(Pendik/Pendik Bel./Kavakpınar Mah.)-40646|59548.0|
+|İstanbul(Pendik/Pendik Bel./Kaynarca Mah.)-40631|48231.0|
+|İstanbul(Pendik/Pendik Bel./Kurna Mah.)-191761|1215.0|
+|İstanbul(Pendik/Pendik Bel./Kurtdoğmuş Mah.)-191763|440.0|
+|İstanbul(Pendik/Pendik Bel./Kurtköy Mah.)-40654|30073.0|
+|İstanbul(Pendik/Pendik Bel./Orhangazi Mah.)-40650|28149.0|
+|İstanbul(Pendik/Pendik Bel./Orta Mah.)-40645|6088.0|
+|İstanbul(Pendik/Pendik Bel./Ramazanoğlu Mah.)-40639|3081.0|
+|İstanbul(Pendik/Pendik Bel./Sanayi Mah.)-40651|3491.0|
+|İstanbul(Pendik/Pendik Bel./Sapan Bağları Mah.)-40637|10839.0|
+|İstanbul(Pendik/Pendik Bel./Şeyhli Mah.)-40630|16088.0|
+|İstanbul(Pendik/Pendik Bel./Sülüntepe Mah.)-40655|23692.0|
+|İstanbul(Pendik/Pendik Bel./Velibaba Mah.)-40642|36080.0|
+|İstanbul(Pendik/Pendik Bel./Yayalar Mah.)-40641|11253.0|
+|İstanbul(Pendik/Pendik Bel./Yeni Mah.)-40652|15100.0|
+|İstanbul(Pendik/Pendik Bel./Yenişehir Mah.)-40653|55948.0|
+|İstanbul(Pendik/Pendik Bel./Yeşilbağlar Mah.)-40648|6235.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./Abdurrahmangazi Mah.)-40579|29240.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./Akpınar Mah.)-40575|20073.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./Atatürk Mah.)-98781|27708.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./Emek Mah.)-40759|23476.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./Eyüp Sultan Mah.)-40578|17261.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./Fatih Mah.)-40576|24402.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./Hilal Mah.)-40776|5510.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./İnönü Mah.)-40760|21854.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./Kemal Türkler Mah.)-40761|18540.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./Meclis Mah.)-40762|25101.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./Merve Mah.)-40775|17672.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./Mevlana Mah.)-40773|14783.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./Osmangazi Mah.)-40580|36637.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./Paşaköy Mah.)-192001|1699.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./Safa Mah.)-40771|16321.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./Sarıgazi Mah.)-40763|20197.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./Veysel Karani Mah.)-40574|18675.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./Yenidoğan Mah.)-40774|18806.0|
+|İstanbul(Sancaktepe/Sancaktepe Bel./Yunus Emre Mah.)-40772|19092.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Ayazağa Mah.)-40686|35282.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Bahçeköy Merkez Mah.)-40682|3830.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Bahçeköy Yeni Mah.)-40683|5602.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Baltalimanı Mah.)-40657|5316.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Büyükdere Mah.)-40658|8907.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Çamlıtepe Mah.)-40660|6186.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Çayırbaşı Mah.)-40661|5197.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Cumhuriyet Mah.)-40659|11281.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Darüşşafaka Mah.)-40662|9086.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Demirciköy Mah.)-191765|1304.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Emirgan Mah.)-40663|9394.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Fatih Sultan Mehmet Mah.)-40664|15650.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Ferahevler Mah.)-40665|15406.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Garipçe Mah.)-191767|477.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Gümüşdere Mah.)-191769|4137.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Huzur Mah.)-40700|8140.0|
+|İstanbul(Sarıyer/Sarıyer Bel./İstinye Mah.)-40666|16418.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Kazım Karabekir Paşa Mah.)-40667|8261.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Kemer Mah.)-40684|2380.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Kireçburnu Mah.)-40668|6876.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Kısırkaya Mah.)-191771|342.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Kocataş Mah.)-40669|4490.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Kumköy Mah.)-191773|3227.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Maden Mah.)-40670|13114.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Maslak Mah.)-40704|6236.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Merkez Mah.)-40671|12820.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Pınar Mah.)-40672|11742.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Poligon Mah.)-40673|6412.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Ptt Evleri Mah.)-40674|4996.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Reşitpaşa Mah.)-40675|17291.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Rumelifeneri Mah.)-191775|4574.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Rumeli Hisarı Mah.)-40676|10796.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Rumeli Kavağı Mah.)-40677|3710.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Tarabya Mah.)-40678|17945.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Uskumruköy Mah.)-191777|7694.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Yeniköy Mah.)-40680|15981.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Yeni Mah.)-40679|3420.0|
+|İstanbul(Sarıyer/Sarıyer Bel./Zekeriyaköy Mah.)-191779|18833.0|
+|İstanbul(Şile/Şile Bel./Ağaçdere Mah.)-191927|95.0|
+|İstanbul(Şile/Şile Bel./Ağva Merkez Mah.)-40961|1994.0|
+|İstanbul(Şile/Şile Bel./Ahmetli Mah.)-191861|1770.0|
+|İstanbul(Şile/Şile Bel./Akçakese Mah.)-191863|388.0|
+|İstanbul(Şile/Şile Bel./Alacalı Mah.)-191947|505.0|
+|İstanbul(Şile/Şile Bel./Avcıkoru Mah.)-191949|125.0|
+|İstanbul(Şile/Şile Bel./Balibey Mah.)-40960|2919.0|
+|İstanbul(Şile/Şile Bel./Bıçkıdere Mah.)-191951|261.0|
+|İstanbul(Şile/Şile Bel./Bozgoca Mah.)-191865|98.0|
+|İstanbul(Şile/Şile Bel./Bucaklı Mah.)-191897|300.0|
+|İstanbul(Şile/Şile Bel./Çataklı Mah.)-191899|217.0|
+|İstanbul(Şile/Şile Bel./Çavuş Mah.)-40959|8371.0|
+|İstanbul(Şile/Şile Bel./Çayırbaşı Mah.)-191867|948.0|
+|İstanbul(Şile/Şile Bel./Çelebi Mah.)-191901|148.0|
+|İstanbul(Şile/Şile Bel./Çengilli Mah.)-191929|187.0|
+|İstanbul(Şile/Şile Bel./Darlık Mah.)-191869|106.0|
+|İstanbul(Şile/Şile Bel./Değirmençayırı Mah.)-191931|461.0|
+|İstanbul(Şile/Şile Bel./Doğancılı Mah.)-191953|751.0|
+|İstanbul(Şile/Şile Bel./Erenler Mah.)-191871|121.0|
+|İstanbul(Şile/Şile Bel./Esenceli Mah.)-191955|61.0|
+|İstanbul(Şile/Şile Bel./Geredeli Mah.)-191903|577.0|
+|İstanbul(Şile/Şile Bel./Göçe Mah.)-191905|716.0|
+|İstanbul(Şile/Şile Bel./Gökmaşlı Mah.)-191907|175.0|
+|İstanbul(Şile/Şile Bel./Göksu Mah.)-191909|283.0|
+|İstanbul(Şile/Şile Bel./Hacı Kasım Mah.)-40958|942.0|
+|İstanbul(Şile/Şile Bel./Hacıllı Mah.)-191911|245.0|
+|İstanbul(Şile/Şile Bel./Hasanlı Mah.)-191933|218.0|
+|İstanbul(Şile/Şile Bel./İmrendere Mah.)-191873|263.0|
+|İstanbul(Şile/Şile Bel./İmrenli Mah.)-191875|244.0|
+|İstanbul(Şile/Şile Bel./İsaköy Mah.)-191913|141.0|
+|İstanbul(Şile/Şile Bel./Kabakoz Mah.)-191877|531.0|
+|İstanbul(Şile/Şile Bel./Kadıköy Mah.)-191915|167.0|
+|İstanbul(Şile/Şile Bel./Kalem Mah.)-191917|216.0|
+|İstanbul(Şile/Şile Bel./Karabeyli Mah.)-191879|216.0|
+|İstanbul(Şile/Şile Bel./Karacaköy Mah.)-191881|260.0|
+|İstanbul(Şile/Şile Bel./Karakiraz Mah.)-191957|292.0|
+|İstanbul(Şile/Şile Bel./Karamandere Mah.)-191883|311.0|
+|İstanbul(Şile/Şile Bel./Kervansaray Mah.)-191959|274.0|
+|İstanbul(Şile/Şile Bel./Kızılca Mah.)-191885|497.0|
+|İstanbul(Şile/Şile Bel./Kömürlük Mah.)-191961|213.0|
+|İstanbul(Şile/Şile Bel./Korucu Mah.)-191887|216.0|
+|İstanbul(Şile/Şile Bel./Kumbaba Mah.)-40957|682.0|
+|İstanbul(Şile/Şile Bel./Kurfallı Mah.)-191919|242.0|
+|İstanbul(Şile/Şile Bel./Kurna Mah.)-191963|152.0|
+|İstanbul(Şile/Şile Bel./Meşrutiyet Mah.)-191889|1578.0|
+|İstanbul(Şile/Şile Bel./Oruçoğlu Mah.)-191965|338.0|
+|İstanbul(Şile/Şile Bel./Osmanköy Mah.)-191935|256.0|
+|İstanbul(Şile/Şile Bel./Ovacık Mah.)-191891|145.0|
+|İstanbul(Şile/Şile Bel./Sahilköy Mah.)-191967|767.0|
+|İstanbul(Şile/Şile Bel./Satmazlı Mah.)-191893|360.0|
+|İstanbul(Şile/Şile Bel./Sofular Mah.)-191969|277.0|
+|İstanbul(Şile/Şile Bel./Soğullu Mah.)-191921|188.0|
+|İstanbul(Şile/Şile Bel./Sortullu Mah.)-191937|120.0|
+|İstanbul(Şile/Şile Bel./Şuayipli Mah.)-191923|238.0|
+|İstanbul(Şile/Şile Bel./Teke Mah.)-191925|504.0|
+|İstanbul(Şile/Şile Bel./Ulupelit Mah.)-191971|188.0|
+|İstanbul(Şile/Şile Bel./Üvezli Mah.)-191973|341.0|
+|İstanbul(Şile/Şile Bel./Yaka Mah.)-191939|202.0|
+|İstanbul(Şile/Şile Bel./Yaylalı Mah.)-191941|60.0|
+|İstanbul(Şile/Şile Bel./Yazımanayır Mah.)-191943|229.0|
+|İstanbul(Şile/Şile Bel./Yeniköy Mah.)-191895|403.0|
+|İstanbul(Şile/Şile Bel./Yeşilvadi Mah.)-191945|148.0|
+|İstanbul(Silivri/Silivri Bel./Akören Mah.)-191835|1290.0|
+|İstanbul(Silivri/Silivri Bel./Alibey Mah.)-40920|18094.0|
+|İstanbul(Silivri/Silivri Bel./Alipaşa Mah.)-40927|1018.0|
+|İstanbul(Silivri/Silivri Bel./Balaban Mah.)-40930|2835.0|
+|İstanbul(Silivri/Silivri Bel./Bekirli Mah.)-191845|203.0|
+|İstanbul(Silivri/Silivri Bel./Beyciler Mah.)-191847|1453.0|
+|İstanbul(Silivri/Silivri Bel./Büyük Çavuşlu Mah.)-40941|3311.0|
+|İstanbul(Silivri/Silivri Bel./Büyük Kılıçlı Mah.)-191849|1157.0|
+|İstanbul(Silivri/Silivri Bel./Büyük Sinekli Mah.)-191843|360.0|
+|İstanbul(Silivri/Silivri Bel./Çayırdere Mah.)-191851|1223.0|
+|İstanbul(Silivri/Silivri Bel./Çeltik Mah.)-191837|1027.0|
+|İstanbul(Silivri/Silivri Bel./Cumhuriyet Mah.)-40922|7304.0|
+|İstanbul(Silivri/Silivri Bel./Danamandıra Mah.)-191853|1098.0|
+|İstanbul(Silivri/Silivri Bel./Fatih Mah.)-40918|7042.0|
+|İstanbul(Silivri/Silivri Bel./Fener Mah.)-191839|1574.0|
+|İstanbul(Silivri/Silivri Bel./Fevzipaşa Mah.)-40933|3109.0|
+|İstanbul(Silivri/Silivri Bel./Gazitepe Mah.)-40925|1254.0|
+|İstanbul(Silivri/Silivri Bel./Gümüşyaka Mah.)-40935|7630.0|
+|İstanbul(Silivri/Silivri Bel./Hürriyet Mah.)-40937|1801.0|
+|İstanbul(Silivri/Silivri Bel./İsmetpaşa Mah.)-40934|2920.0|
+|İstanbul(Silivri/Silivri Bel./Kadıköy Mah.)-40939|1521.0|
+|İstanbul(Silivri/Silivri Bel./Kavaklı Mah.)-40936|1930.0|
+|İstanbul(Silivri/Silivri Bel./Küçük Kılıçlı Mah.)-40924|270.0|
+|İstanbul(Silivri/Silivri Bel./Küçük Sinekli Mah.)-191857|147.0|
+|İstanbul(Silivri/Silivri Bel./Kurfallı Mah.)-191855|502.0|
+|İstanbul(Silivri/Silivri Bel./Mimar Sinan Mah.)-40923|14214.0|
+|İstanbul(Silivri/Silivri Bel./Ortaköy Mah.)-40938|3838.0|
+|İstanbul(Silivri/Silivri Bel./Piri Mehmet Paşa Mah.)-40919|8985.0|
+|İstanbul(Silivri/Silivri Bel./Sancaktepe Mah.)-40931|4789.0|
+|İstanbul(Silivri/Silivri Bel./Sayalar Mah.)-191859|774.0|
+|İstanbul(Silivri/Silivri Bel./Selimpaşa Mah.)-40940|18019.0|
+|İstanbul(Silivri/Silivri Bel./Semizkumlar Mah.)-40926|17691.0|
+|İstanbul(Silivri/Silivri Bel./Seymen Mah.)-191841|1020.0|
+|İstanbul(Silivri/Silivri Bel./Yeni Mah.)-40921|30758.0|
+|İstanbul(Silivri/Silivri Bel./Yolçatı Mah.)-40932|362.0|
+|İstanbul(Şişli/Şişli Bel./19 Mayıs Mah.)-40685|11276.0|
+|İstanbul(Şişli/Şişli Bel./Bozkurt Mah.)-40687|10844.0|
+|İstanbul(Şişli/Şişli Bel./Cumhuriyet Mah.)-40688|7042.0|
+|İstanbul(Şişli/Şişli Bel./Duatepe Mah.)-40689|8205.0|
+|İstanbul(Şişli/Şişli Bel./Ergenekon Mah.)-40690|2630.0|
+|İstanbul(Şişli/Şişli Bel./Esentepe Mah.)-40691|7204.0|
+|İstanbul(Şişli/Şişli Bel./Eskişehir Mah.)-40692|12208.0|
+|İstanbul(Şişli/Şişli Bel./Feriköy Mah.)-40693|14713.0|
+|İstanbul(Şişli/Şişli Bel./Fulya Mah.)-40694|17353.0|
+|İstanbul(Şişli/Şişli Bel./Gülbahar Mah.)-40695|23014.0|
+|İstanbul(Şişli/Şişli Bel./Halaskargazi Mah.)-40698|1669.0|
+|İstanbul(Şişli/Şişli Bel./Halide Edip Adıvar Mah.)-40696|16971.0|
+|İstanbul(Şişli/Şişli Bel./Halil Rıfat Paşa Mah.)-40697|3954.0|
+|İstanbul(Şişli/Şişli Bel./Harbiye Mah.)-40699|2565.0|
+|İstanbul(Şişli/Şişli Bel./İnönü Mah.)-40711|3780.0|
+|İstanbul(Şişli/Şişli Bel./İzzet Paşa Mah.)-40712|8071.0|
+|İstanbul(Şişli/Şişli Bel./Kaptanpaşa Mah.)-40701|3323.0|
+|İstanbul(Şişli/Şişli Bel./Kuştepe Mah.)-40702|15990.0|
+|İstanbul(Şişli/Şişli Bel./Mahmut Şevket Paşa Mah.)-40703|19230.0|
+|İstanbul(Şişli/Şişli Bel./Mecidiyeköy Mah.)-40705|20130.0|
+|İstanbul(Şişli/Şişli Bel./Merkez Mah.)-40706|13456.0|
+|İstanbul(Şişli/Şişli Bel./Meşrutiyet Mah.)-40707|7864.0|
+|İstanbul(Şişli/Şişli Bel./Paşa Mah.)-40708|18185.0|
+|İstanbul(Şişli/Şişli Bel./Teşvikiye Mah.)-40709|11845.0|
+|İstanbul(Şişli/Şişli Bel./Yayla Mah.)-40710|11281.0|
+|İstanbul(Sultanbeyli/Sultanbeyli Bel./Abdurrahmangazi Mah.)-40949|28825.0|
+|İstanbul(Sultanbeyli/Sultanbeyli Bel./Adil Mah.)-40943|17327.0|
+|İstanbul(Sultanbeyli/Sultanbeyli Bel./Ahmet Yesevi Mah.)-40942|29268.0|
+|İstanbul(Sultanbeyli/Sultanbeyli Bel./Akşemsettin Mah.)-40956|12549.0|
+|İstanbul(Sultanbeyli/Sultanbeyli Bel./Battalgazi Mah.)-40944|31693.0|
+|İstanbul(Sultanbeyli/Sultanbeyli Bel./Fatih Mah.)-40951|21677.0|
+|İstanbul(Sultanbeyli/Sultanbeyli Bel./Hamidiye Mah.)-40952|27155.0|
+|İstanbul(Sultanbeyli/Sultanbeyli Bel./Hasanpaşa Mah.)-40948|17290.0|
+|İstanbul(Sultanbeyli/Sultanbeyli Bel./Mecidiye Mah.)-40945|22949.0|
+|İstanbul(Sultanbeyli/Sultanbeyli Bel./Mehmet Akif Mah.)-40950|27465.0|
+|İstanbul(Sultanbeyli/Sultanbeyli Bel./Mimar Sinan Mah.)-40946|17299.0|
+|İstanbul(Sultanbeyli/Sultanbeyli Bel./Necip Fazıl Mah.)-40954|15729.0|
+|İstanbul(Sultanbeyli/Sultanbeyli Bel./Orhangazi Mah.)-40955|15640.0|
+|İstanbul(Sultanbeyli/Sultanbeyli Bel./Turgut Reis Mah.)-40947|20265.0|
+|İstanbul(Sultanbeyli/Sultanbeyli Bel./Yavuz Selim Mah.)-40953|19578.0|
+|İstanbul(Sultangazi/Sultangazi Bel./50. Yıl Mah.)-40471|72980.0|
+|İstanbul(Sultangazi/Sultangazi Bel./75. Yıl Mah.)-40467|31940.0|
+|İstanbul(Sultangazi/Sultangazi Bel./Cebeci Mah.)-40474|59996.0|
+|İstanbul(Sultangazi/Sultangazi Bel./Cumhuriyet Mah.)-40465|14828.0|
+|İstanbul(Sultangazi/Sultangazi Bel./Esentepe Mah.)-40470|63449.0|
+|İstanbul(Sultangazi/Sultangazi Bel./Eski Habipler Mah.)-40356|6180.0|
+|İstanbul(Sultangazi/Sultangazi Bel./Gazi Mah.)-40469|34184.0|
+|İstanbul(Sultangazi/Sultangazi Bel./Habibler Mah.)-40477|6746.0|
+|İstanbul(Sultangazi/Sultangazi Bel./İsmetpaşa Mah.)-40475|54947.0|
+|İstanbul(Sultangazi/Sultangazi Bel./Malkoçoğlu Mah.)-40476|13280.0|
+|İstanbul(Sultangazi/Sultangazi Bel./Sultançiftliği Mah.)-40472|38428.0|
+|İstanbul(Sultangazi/Sultangazi Bel./Uğur Mumcu Mah.)-40473|41585.0|
+|İstanbul(Sultangazi/Sultangazi Bel./Yayla Mah.)-40377|8243.0|
+|İstanbul(Sultangazi/Sultangazi Bel./Yunus Emre Mah.)-40466|46236.0|
+|İstanbul(Sultangazi/Sultangazi Bel./Zübeyde Hanım Mah.)-40468|32068.0|
+|İstanbul(Tuzla/Tuzla Bel./Akfırat Mah.)-40725|2420.0|
+|İstanbul(Tuzla/Tuzla Bel./Anadolu Mah.)-40730|855.0|
+|İstanbul(Tuzla/Tuzla Bel./Aydınlı Mah.)-40720|52847.0|
+|İstanbul(Tuzla/Tuzla Bel./Aydıntepe Mah.)-40717|22667.0|
+|İstanbul(Tuzla/Tuzla Bel./Cami Mah.)-40724|4998.0|
+|İstanbul(Tuzla/Tuzla Bel./Evliya Çelebi Mah.)-40718|10303.0|
+|İstanbul(Tuzla/Tuzla Bel./Fatih Mah.)-40731|1046.0|
+|İstanbul(Tuzla/Tuzla Bel./İçmeler Mah.)-40716|10400.0|
+|İstanbul(Tuzla/Tuzla Bel./İstasyon Mah.)-40723|19333.0|
+|İstanbul(Tuzla/Tuzla Bel./Mescit Mah.)-40732|4397.0|
+|İstanbul(Tuzla/Tuzla Bel./Mimar Sinan Mah.)-40721|23217.0|
+|İstanbul(Tuzla/Tuzla Bel./Orhanlı Mah.)-40728|1853.0|
+|İstanbul(Tuzla/Tuzla Bel./Orta Mah.)-40729|9978.0|
+|İstanbul(Tuzla/Tuzla Bel./Postane Mah.)-40719|18207.0|
+|İstanbul(Tuzla/Tuzla Bel./Şifa Mah.)-40722|27274.0|
+|İstanbul(Tuzla/Tuzla Bel./Tepeören Mah.)-40726|6594.0|
+|İstanbul(Tuzla/Tuzla Bel./Yayla Mah.)-40715|25833.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Adem Yavuz Mah.)-98684|17420.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Altınşehir Mah.)-98685|27954.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Armağanevler Mah.)-98686|36664.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Aşağı Dudullu Mah.)-40742|12227.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Atakent Mah.)-40748|21362.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Atatürk Mah.)-40735|24623.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Çakmak Mah.)-40738|36660.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Çamlık Mah.)-98689|22156.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Cemil Meriç Mah.)-98688|22653.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Dumlupınar Mah.)-98690|13268.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Elmalıkent Mah.)-98691|22241.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Esenevler Mah.)-98692|26841.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Esenkent Mah.)-98709|19220.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Esenşehir Mah.)-40747|19032.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Fatih Sultan Mehmet Mah.)-98693|4061.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Hekimbaşı Mah.)-40744|8553.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Huzur Mah.)-98694|11793.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Ihlamurkuyu Mah.)-40745|16347.0|
+|İstanbul(Ümraniye/Ümraniye Bel./İnkılap Mah.)-40737|28864.0|
+|İstanbul(Ümraniye/Ümraniye Bel./İstiklal Mah.)-40739|47254.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Kazım Karabekir Mah.)-40743|17687.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Madenler Mah.)-98695|13919.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Mehmet Akif Mah.)-98696|24576.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Namık Kemal Mah.)-40736|28660.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Necip Fazıl Mah.)-98699|26510.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Parseller Mah.)-98700|15128.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Saray Mah.)-98701|2013.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Şerifali Mah.)-98703|8172.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Site Mah.)-98702|25752.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Tantavi Mah.)-98704|9883.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Tatlısu Mah.)-98705|20002.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Tepeüstü Mah.)-98706|13520.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Topağacı Mah.)-98707|15224.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Yamanevler Mah.)-98708|14050.0|
+|İstanbul(Ümraniye/Ümraniye Bel./Yukarı Dudullu Mah.)-40741|19865.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Acıbadem Mah.)-40778|25027.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Ahmediye Mah.)-98664|9431.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Altunizade Mah.)-40781|14830.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Aziz Mahmut Hüdayi Mah.)-98665|9094.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Bahçelievler Mah.)-40785|21309.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Barbaros Mah.)-40786|18258.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Beylerbeyi Mah.)-40787|5897.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Bulgurlu Mah.)-40788|30516.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Burhaniye Mah.)-40789|16936.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Çengelköy Mah.)-98666|14244.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Cumhuriyet Mah.)-40790|35996.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Ferah Mah.)-40794|20573.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Güzeltepe Mah.)-40797|13301.0|
+|İstanbul(Üsküdar/Üsküdar Bel./İcadiye Mah.)-40802|17270.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Kandilli Mah.)-40806|1623.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Kirazlıtepe Mah.)-40808|13428.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Kısıklı Mah.)-40809|19750.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Küçük Çamlıca Mah.)-98667|10422.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Küçüksu Mah.)-40812|19709.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Kuleli Mah.)-40810|2221.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Küplüce Mah.)-40813|17722.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Kuzguncuk Mah.)-40811|4402.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Mehmet Akif Ersoy Mah.)-40814|21080.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Mimar Sinan Mah.)-98668|12338.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Muratreis Mah.)-40815|13993.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Salacak Mah.)-40804|9579.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Selami Ali Mah.)-40819|13145.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Selimiye Mah.)-40820|8938.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Sultantepe Mah.)-98669|11438.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Ünalan Mah.)-40827|34167.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Valide-İ Atik Mah.)-40828|21580.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Yavuztürk Mah.)-40830|34653.0|
+|İstanbul(Üsküdar/Üsküdar Bel./Zeynep Kamil Mah.)-98670|12667.0|
+|İstanbul(Zeytinburnu/Zeytinburnu Bel./Beştelsiz Mah.)-40838|24412.0|
+|İstanbul(Zeytinburnu/Zeytinburnu Bel./Çırpıcı Mah.)-40837|29259.0|
+|İstanbul(Zeytinburnu/Zeytinburnu Bel./Gökalp Mah.)-40834|19928.0|
+|İstanbul(Zeytinburnu/Zeytinburnu Bel./Kazlıçeşme Mah.)-40840|1898.0|
+|İstanbul(Zeytinburnu/Zeytinburnu Bel./Maltepe Mah.)-40843|1634.0|
+|İstanbul(Zeytinburnu/Zeytinburnu Bel./Merkezefendi Mah.)-40842|23834.0|
+|İstanbul(Zeytinburnu/Zeytinburnu Bel./Nuripaşa Mah.)-40832|27386.0|
+|İstanbul(Zeytinburnu/Zeytinburnu Bel./Seyitnizam Mah.)-40841|24017.0|
+|İstanbul(Zeytinburnu/Zeytinburnu Bel./Sümer Mah.)-40831|37421.0|
+|İstanbul(Zeytinburnu/Zeytinburnu Bel./Telsiz Mah.)-40839|37516.0|
+|İstanbul(Zeytinburnu/Zeytinburnu Bel./Veliefendi Mah.)-40836|28137.0|
+|İstanbul(Zeytinburnu/Zeytinburnu Bel./Yenidoğan Mah.)-40833|10844.0|
+|İstanbul(Zeytinburnu/Zeytinburnu Bel./Yeşiltepe Mah.)-40835|21611.0|
+|||
