@@ -2,6 +2,10 @@
 
 This repository consists of two main projects. 
 1. The analysis of Green Spaces and Parks in Istanbul and Their Relation to the Population (https://github.com/tugcecalisir/IBB_Data_Analysis/blob/main/%C4%B0BB_Green_Space_Analysis_and_Visualization.ipynb)
+
+<a href = "https://github.com/tugcecalisir/IBB_Data_Analysis/blob/main/%C4%B0BB_Green_Space_Analysis_and_Visualization.ipynb" > İBB_Green_Space_Analysis_and_Visualization </a>
+
+
 2. Prediction of the Population of Istanbul Using ML Models (https://github.com/tugcecalisir/IBB_Data_Analysis/blob/main/Istanbul's_Population_Analysis_By_Regression.ipynb)
 
 ## 1. The analysis of Green Spaces and Parks in Istanbul and Their Relation to the Population
