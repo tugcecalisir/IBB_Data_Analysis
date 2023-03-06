@@ -21,5 +21,6 @@ In the graph below, the parks and green spaces numbers in all districts in Istan
 ![image](https://user-images.githubusercontent.com/103861412/222979480-d5b488cc-79fa-4b24-abee-d04c95ae0a7c.png)
 
 Thanks to the longitude and latitude information of the parks and green spaces in the dataset, the total number of parks and green spaces was visualized one by one and district by district. Each park and green space was visualized one by one using MapBox and Choropleth Map. The link JSON file that is used <a href = "https://github.com/tugcecalisir/IBB_Data_Analysis/blob/main/istanbul-districts.json" > Istanbul Districts </a>. 
-![Adsız tasarım (2)](https://user-images.githubusercontent.com/103861412/222981291-82981c4e-51e6-42d9-80d3-e7ecad0bff3d.gif)
+
+![mapbox](https://user-images.githubusercontent.com/58370511/223101419-36866e82-21a5-4193-bd21-68bb590f238a.PNG)
 ![choropleth map1 gif](https://user-images.githubusercontent.com/103861412/222980218-072fa4b3-9d41-42f9-8fae-9703414b275b.gif)
