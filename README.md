@@ -20,16 +20,25 @@ This dataset includes the name, longitude, latitude, neighborhood, and district 
 In the graph below, the parks and green spaces numbers in all districts in Istanbul are shown.
 ![image](https://user-images.githubusercontent.com/103861412/222979480-d5b488cc-79fa-4b24-abee-d04c95ae0a7c.png)
 
-Thanks to the longitude and latitude information of the parks and green spaces in the dataset, the total number of parks and green spaces was visualized one by one and district by district. Each park and green space was visualized one by one using MapBox and Choropleth Map. The link JSON file that is used <a href = "https://github.com/tugcecalisir/IBB_Data_Analysis/blob/main/istanbul-districts.json" > Istanbul Districts </a>. 
+Thanks to the longitude and latitude information of the parks and green spaces in the dataset, the total number of parks and green spaces was visualized one by one and district by district. Each park and green space was visualized one by one using MapBox and Choropleth Map. The link JSON file that is used <a href = "https://github.com/tugcecalisir/IBB_Data_Analysis/blob/main/Datasets/istanbul-districts.json" > Istanbul Districts </a>. 
 
 <img width="900" height="300" src="https://user-images.githubusercontent.com/58370511/223101419-36866e82-21a5-4193-bd21-68bb590f238a.PNG">
 
 <img width="800" height="400" src="https://user-images.githubusercontent.com/58370511/229122870-deaf07b5-e3f4-48cd-8aeb-bebc27ea057c.gif?raw=true">
 
-Then, using the dataset at this <a href = "https://github.com/sukruburakcetin/veri-analizi_parklar-ve-yesil-alanlar/blob/main/Data/Non-GIS%20data/raw/park_location.csv"> link </a> green areas and parks were categorized.
+In addition to the numbers, parks, and green spaces were categorized by their types and purpose of usage. To do this <a href = "https://github.com/sukruburakcetin/veri-analizi_parklar-ve-yesil-alanlar/blob/main/Data/Non-GIS%20data/raw/park_location.csv"> dataset </a> has been used. As a result, there are 3624 parks and green spaces located in Istanbul. 
+3616 of them named as a 'Park'. This means, 3616 of them are relatively small size local parks. 
+1 of them is 'Mesire. This space is bigger than parks and made for people to make picnics, short walks and runs, and that kinds of outdoor activities.
+6 of them are 'Koru'. In another name small forest. These places are pieces of forest located inside or around Istanbul.
+The last one is Forest.
 
 <img width="900" height="300" src="https://user-images.githubusercontent.com/58370511/229128101-78dbefaa-2729-446e-a320-0a2211c75f1a.PNG"><br>
 <sub><b>Types of Green Spaces </b> </sub><br>
+
+If we take a closer look at the purpose of these 3624 parks and green spaces, it will be seen that these are used for 3 purposes.
+The first one is 'Generalized' with the highest percentage. These places use for small walks, picnics, meetings, and these kinds of outdoor activities.
+Parks made for 'Children' come second with 265.
+17 of them are used for sport.
 
 <img width="900" height="300" src="https://user-images.githubusercontent.com/58370511/229131170-903f09c6-99ae-44a9-9ea3-ffd67b4d0017.PNG"><br>
 <sub><b>Types of Parks</b></sub><br>
