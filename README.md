@@ -48,6 +48,10 @@ Using the <a href ="https://github.com/tugcecalisir/IBB_Data_Analysis/blob/main/
 <img width="900" height="300" src="https://user-images.githubusercontent.com/58370511/229132433-ab2c0d4e-63c7-43b1-a784-be2912066b77.PNG">
 <img width="900" height="300" src="https://user-images.githubusercontent.com/58370511/229132463-c70a1d51-8f6a-40ff-8bb3-ee4466b948f6.PNG">
 
+Here is an overview of the number of children's parks throughout Istanbul.
+
+<img width="900" height="300" src="https://user-images.githubusercontent.com/103861412/230768848-fc42d99b-656c-424e-9230-c1874e876990.png">
+
 Using the <a href ="https://github.com/tugcecalisir/IBB_Data_Analysis/blob/main/Datasets/nufus.csv" > Population</a> dataset, the districts with the highest and least population in Istanbul are shown in the graphs below. While Esenyurt is the most populated district in Istanbul, Adalar is the least populated district.
 <img width="900" height="300" src="https://user-images.githubusercontent.com/58370511/229140000-d4269910-d298-4847-bf50-9cb2a8cbace2.png">
 
